@@ -22,6 +22,9 @@ const Navbar = () => {
         <Menu.Item icon={<BulbOutlined />}>
           <Link to="/News">News</Link>
         </Menu.Item>
+        <Menu.Item icon={<HomeOutlined />}>
+          <Link to="https://www.mandoweb3.xyz/mandoWeb3Landing">Landing</Link>
+        </Menu.Item>
       </Menu>
   </div>
   );

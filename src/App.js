@@ -40,6 +40,7 @@ const App = () => (
           <Link to="/">Home</Link>
           <Link to="/">Cryptos</Link>
           <Link to="/news">News</Link>
+          <Link to="https://www.mandoweb3.xyz/mandoWeb3Landing">Landing</Link>
         </Space>
       </div>
     </div>
